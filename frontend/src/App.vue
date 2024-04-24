@@ -21,6 +21,7 @@ export default {
 <style lang="css">
 @import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
+
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
